@@ -1,0 +1,6 @@
+{
+  "name": "Ôn Tập Tin Học 10 - Giữa Học Kỳ 1 (Bài 16 - 23)",
+  "description": "Hệ thống ôn tập tương tác & kiểm tra giữa kỳ 1 môn Tin học 10 (Bài 16 đến 23) với giám sát thi chống gian lận, gửi email báo cáo và Dashboard phân tích cá nhân - tập thể.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
